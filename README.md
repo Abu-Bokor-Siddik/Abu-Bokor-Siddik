@@ -12,63 +12,151 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-👋 Hi there! I'm a developer and researcher deeply passionate about the intersection of <b>Computer Science, Artificial Intelligence, and Systems Biology</b>. I specialize in translating complex biological mechanisms into scalable software logic—essentially, architecting systems that breathe.
+# Hi, I'm Abu Bokor Siddik 👋
 
-*   🔭 Currently Architecting: **CytoOS** (a medical operating system leveraging digital twin technology) and **CytoLogic** (an interactive visual compiler for genetic state-machines).
-  
-🚀 **Leadership:** Founding member and Senior Operational officer at **Craftly**,(Lead Entire Operational Department) driving LLM architectures and generative AI solutions.
-*   🌱 **Core Focus:** Building high-impact, lightweight computational tools (like generative data synthesis and edge-AI anomaly detection) to make synthetic biology and medical research more accessible.
-*   💻 **Background:** My journey started in game development (Unity/C#) and community building, which fundamentally shaped my approach to creating highly interactive, visual, and user-centric systems today.
-*   ⚡ **Quote I live by:** *"Bio-Logic Architect — Bridging Biology and Code."*
+**Bio-Logic Architect — Bridging Biology and Code.**
 
-  ## 🚀 From Game Loops to Genetic Circuits: My Journey as a Bio-Logic Architect (2020–2026)
+I'm a developer and independent researcher passionate about building computational systems inspired by biology. My work sits at the intersection of **Computer Science, Artificial Intelligence, Systems Biology, and Biomedical Engineering**, where I explore how biological processes can be translated into programmable architectures.
 
-My engineering journey is defined by a continuous drive to understand complex systems, starting from digital game loops and evolving into biological state-machines. Here is how my focus shifted from pure software development to the intersection of AI, systems biology, and biomedical engineering.
+Rather than treating biology purely as a scientific discipline, I approach it as a collection of interacting computational systems. My goal is to build software that helps researchers design, simulate, and reason about biological logic more effectively.
 
-### 2020–2021: Resourceful Foundations & Full-Stack Prototyping
-* **Building in Constrained Environments:** My journey began with Python and web development. Learning to code on a baseline core i3 processor utilizing tethered mobile internet taught me early on how to write highly optimized, lightweight logic.
-* **Rapid Iteration:** Transitioned from basic scripts to creating three distinct interactive demo games. Concurrently, I taught myself full-stack web development and successfully deployed a web platform that remained active and sustained users throughout 2021 and 2022.
+---
 
-### 2022: Shipping Products & A Pivotal Biological Shift
-* **From Concept to Production:**I created three demo projects before designing, building, and shipping a complete game on itch.io, managing everything from core mechanics to UI/UX deployment.
-* **The Catalyst Project:** Developed a "Smart Tree Monitoring" system integrating IoT and logic, which secured **3rd Prize at a National Science Fair**. This was a defining paradigm shift for me. Realizing that code could monitor and interact with living organisms sparked my permanent pivot from traditional CSE toward biotechnology and biomedical engineering.
+# 🔬 What I'm Building
 
-### 2023–2024: Bridging Mathematics and Bio-Technology
-* **Analytical Rigor:** Deepened my foundation in mathematical modeling and logic systems. This analytical approach helped lead our college team to secure **4th Place at the National Inter-Cantonment Math Olympiad**.
-* **Biomedical Exploration:** Dedicated my independent study to bio-related technologies. I began actively researching antimicrobial resistance and antibiotic mechanisms, looking for avenues where computational architecture could solve biological bottlenecks.
+### 🔘 CytoOS
 
-### 2025: Theoretical Frameworks & Conceptualizing CytoOS
-* **Academic & Research Synthesis:** While navigating a highly rigorous academic year heavily focused on national board examinations (HSC), I channeled my focused research time into intensive literature review and theoretical modeling.
-* **The Birth of a Vision:** Initiated specialized research into phage therapy. Recognizing the lack of scalable computational tools in genetic engineering, I designed the comprehensive system architecture for **CytoOS**, a conceptual digital twin operating system for medical and cellular logic.
+Architecting a long-term computational framework that applies **digital twin technology** to cellular systems. The vision is to model biological pathways, metabolic processes, and cellular behaviors as concurrent software processes that researchers can simulate, analyze, and eventually interact with.
 
-### 2026: Execution, Architecture, and Open Source (Current)
-* **Applied Research:** Currently authoring a research paper focused on quantifying the fitness costs of phage therapy, bridging computational data analysis with microbiological treatment strategies.
-* **Building CytoLogic:** Actively developing the first tangible, open-source module of CytoOS: **CytoLogic**. It is an interactive, web-based visual compiler that allows researchers to drag-and-drop biological logic gates (AND/OR promoters) to rapidly prototype and simulate genetic state-machines.
-* **Strategic AI Leadership:** Served as a Founding Member and Strategic Lead at "Craftly Robot," where I spearheaded an early-stage LLM initiative tailored to the Bangladeshi ecosystem. I drove the architectural execution, core systemic workflows, and cross-functional team scaling to deliver impactful AI-driven solutions.
+### 🔘 CytoLogic
 
-## 🧠 My Focus Areas
-- <h2>🔬 What I'm Currently Building</h2>
-*   🧬 <b>CytoOS:</b> Architecting a flagship "Medical OS" leveraging digital twin technology to simulate cellular pathways and metabolic resource allocation as concurrent software processes.
-*   ⚙️ <b>CytoLogic Compiler:</b> Designing the core logic gates and mathematical simulation frameworks for compiling biological state-machines.
-*   📚 <b>Research & Ideation:</b> Deep diving into phage therapy research, computational biology frameworks, and decentralized systems.
-*<h2> 🚀 Featured Engineering & Systems Projects</h2>
-*   <b>🔘 COVID-19 Virtual Classroom Hub (2020-2021):</b>
-- Engineered a centralized web application to manage fragmented virtual classroom links during the pandemic shift. Scaled organically to handle a daily active readership of 90+ students with over 500+ total unique site visits.
-*   <b>🔘 Smart Tree Monitoring System (IoT Prototype):</b>
-- Co-developed an early-stage IoT system designed to monitor arbor health and environmental metrics. Secured 3rd place overall as the youngest podium finishers (Class 10) in a senior-dominated nationwide competitive pool at the Gregorian National Science Olympiad (2022).
-*   <b>🔘 Independent Game Development (2020-2022):</b>
-- Overcame severe hardware constraints to engineer interactive digital experiences. Developed and published an asteroid-themed action-simulation game on *itch.io*, utilizing game loop optimization and memory management as a gateway into compiling complex states.
-*<h2> 🛠️ <b>Technical Stack & Capabilities</b></h2>
-*  <b>🔘 Core Competencies:</b>  Systems Architecture, Algorithmic Logic, Discrete Mathematics, State-Machine Design, IoT Hardware Prototyping.
-*   <b>🔘 Technical Writing:</b> Authored deep-dive technical features on *Blockchain Integration and Decentralized Protocols* for institutional science and innovation magazines (2022 & 2026).
-*<h2> 🌟Leadership, Civic Engagement & Discipline</h2>
-- I believe that robust engineering requires an equally robust foundation of discipline and empathy.
-*   <b>🔘 Core Leadership:</b> Founding Member & Top Leadership. Spearheading an early-stage Large Language Model (LLM) initiative tailored for the Bangladeshi ecosystem. Driving architectural execution, core systemic workflows, and cross-functional team scaling.
-*  <b>🔘 Institutional Building:</b> *Founding Member* of the Gregorian Innovation Club and *Vice President* of the Gregorian Ecology Club.
-*   <b>🔘 Community Management:</b> Campus Ambassador for a large-scale educational community network, managing logistics and PR for a 10,000+ member demographic (2021-2023)
-*  </b>🔘 Strategic Discipline:</b> Completed rigorous regimented tactical drills and camping expeditions with the *Bangladesh National Cadet Corps (BNCC)* and Bangladesh Scouts.
-- <b>🔘 Quantitative Aptitude:</b> Earned the Inter-Cantonment Math Olympiad Badge, validating advanced problem-solving and logical deduction skills under strict constraints.
+Developing the first open-source module of CytoOS—a visual compiler for genetic state-machines. The platform enables users to construct biological circuits using drag-and-drop logic components, compile them into computational models, and simulate their behavior through mathematical frameworks.
+
+### 🔘 Computational Biology Research
+
+Currently conducting independent research on **phage therapy**, mathematical modeling, and synthetic biology while exploring computational methods that improve biological system design and analysis.
+
+---
+
+# 🚀 Engineering Journey
+
+## 2020–2021 | Learning Through Constraints
+
+🔘 Began programming with Python and web technologies on limited hardware and mobile internet, which taught me to value efficient algorithms and lightweight software design.
+
+🔘 Transitioned from simple automation scripts to interactive applications, eventually developing multiple game prototypes while independently learning full-stack web development.
+
+🔘 Built and maintained a web platform that remained actively used throughout 2021–2022.
+
+---
+
+## 2022 | From Software to Biology
+
+🔘 Designed, developed, and published an independent game on itch.io, managing gameplay programming, optimization, UI, and deployment.
+
+🔘 Co-developed a **Smart Tree Monitoring System**, an IoT-based environmental monitoring prototype that received **3rd Place** at the Gregorian National Science Olympiad.
+
+🔘 This project fundamentally changed my academic direction. Seeing software interact with living systems inspired my transition from traditional software engineering toward computational biology and biomedical engineering.
+
+---
+
+## 2023–2024 | Mathematics Meets Biology
+
+🔘 Expanded my foundation in discrete mathematics, logical reasoning, and computational modeling.
+
+🔘 Helped my college team achieve **4th Place** at the National Inter-Cantonment Mathematics Olympiad.
+
+🔘 Began independently studying antimicrobial resistance, phage biology, and computational approaches for solving biological problems.
+
+---
+
+## 2025 | Designing a Computational Vision
+
+🔘 During an academically intensive HSC year, I focused my research efforts on literature review, systems thinking, and computational biology.
+
+🔘 Initiated long-term research into phage therapy and designed the conceptual architecture for **CytoOS**, aiming to build computational infrastructure for biological engineering.
+
+---
+
+## 2026 | Research and Open Source
+
+🔘 Developing **CytoLogic**, the first functional component of CytoOS, as an open-source compiler for biological logic systems.
+
+🔘 Writing a research paper investigating computational approaches to quantifying fitness costs in phage therapy.
+
+🔘 Continuing to explore AI, synthetic biology, mathematical modeling, and software architecture through open-source development.
+
+---
+
+# 🌟 Selected Projects
+
+### 🔘 CytoLogic
+
+Visual compiler for genetic circuits combining compiler design, state-machine architecture, and systems biology.
+
+### 🔘 CytoOS
+
+Digital twin framework for modeling biological systems through computational abstractions.
+
+### 🔘 Smart Tree Monitoring System
+
+IoT-based environmental monitoring prototype awarded **3rd Place** at the Gregorian National Science Olympiad.
+
+### 🔘 COVID-19 Virtual Classroom Hub
+
+Centralized online platform developed during the pandemic that served over **500+ users** and supported approximately **90 daily active students**.
+
+### 🔘 Independent Game Development
+
+Designed and published interactive games that introduced me to optimization, event-driven systems, and state-machine programming—concepts that continue to influence my current research.
+
+---
+
+# 🛠 Technical Interests
+
+🔘 Systems Architecture
+
+🔘 Compiler Design
+
+🔘 Artificial Intelligence
+
+🔘 Computational Biology
+
+🔘 Digital Twin Systems
+
+🔘 Mathematical Modeling
+
+🔘 Synthetic Biology
+
+🔘 Algorithm Design
+
+🔘 State Machines
+
+🔘 Python • React • JavaScript • Unity • C#
+
+---
+
+# 🌍 Leadership & Community
+
+🔘 Founding Member and Senior Operational Officer at Craftly, overseeing organization-wide operations, team coordination, and execution of AI and LLM initiatives. Alongside leading the operational department, I moderate Craftly's 4,000+ member developer community, helping cultivate collaboration, knowledge sharing, and contributor engagement.
+
+🔘 Founding Member of the Gregorian Innovation Club.
+
+🔘 Vice President of the Gregorian Ecology Club.
+
+🔘 Campus Ambassador (2021–2022) for **Fortress of Sailors** (4.8K+ members) and **FOS: Creativity Hub** (10.8K+ members), coordinating official announcements, community engagement, and large-scale creative events. Supported the planning and execution of photography, painting, digital art, and design competitions while facilitating communication between organizers and participants across communities of more than **15,000 members**.
+
+🔘 Participated in leadership training, camping, and tactical field exercises through the Bangladesh National Cadet Corps (BNCC) and Bangladesh Scouts.
+
+---
+
+# 📖 Philosophy
+
+I enjoy building systems that make complex scientific ideas easier to understand.
+
+Whether developing games, compiler architectures, AI systems, or computational biology tools, my objective remains the same: **transform complicated biological processes into reliable, scalable software that researchers can build upon.**
+
+> *"Bio-Logic Architect — Bridging Biology and Code."*
 
 
 ## 📊 GitHub Stats & Trophies
