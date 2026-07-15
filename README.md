@@ -13,8 +13,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Welcome to my digital workspace. I am a researcher and developer dedicated to bridging the gap between low-level systems programming and complex biological state-machines. My work primarily revolves around engineering digital twin architectures, algorithmic modeling, and building high-impact community solutions.
+👋 Hi there! I'm a developer and researcher deeply passionate about the intersection of <b>Computer Science, Artificial Intelligence, and Systems Biology</b>. I specialize in translating complex biological mechanisms into scalable software logic—essentially, architecting systems that breathe.
 
+*   🔭 Currently Architecting: **CytoOS** (a medical operating system leveraging digital twin technology) and **CytoLogic** (an interactive visual compiler for genetic state-machines). 
+*   🚀 **Leadership:** Co-founder at **Craftly**, driving LLM architectures and generative AI solutions.
+*   🌱 **Core Focus:** Building high-impact, lightweight computational tools (like generative data synthesis and edge-AI anomaly detection) to make synthetic biology and medical research more accessible.
+*   💻 **Background:** My journey started in game development (Unity/C#) and community building, which fundamentally shaped my approach to creating highly interactive, visual, and user-centric systems today.
+*   ⚡ **Quote I live by:** *"Bio-Logic Architect — Bridging Biology and Code."*
 
 ## 🧠 My Focus Areas
 - <h2>🔬 What I'm Currently Building</h2>
