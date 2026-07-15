@@ -18,26 +18,26 @@
 
 ## 🧠 My Focus Areas
 - <h2>🔬 What I'm Currently Building</h2>
-*   🧬 CytoOS: Architecting a flagship "Medical OS" leveraging digital twin technology to simulate cellular pathways and metabolic resource allocation as concurrent software processes.
-*   ⚙️ CytoLogic Compiler: Designing the core logic gates and mathematical simulation frameworks for compiling biological state-machines.
-*   📚 Research & Ideation:Deep diving into phage therapy research, computational biology frameworks, and decentralized systems.
+*   🧬 <b>CytoOS:</b> Architecting a flagship "Medical OS" leveraging digital twin technology to simulate cellular pathways and metabolic resource allocation as concurrent software processes.
+*   ⚙️ <b>CytoLogic Compiler:</b> Designing the core logic gates and mathematical simulation frameworks for compiling biological state-machines.
+*   📚 <b>Research & Ideation:</b> Deep diving into phage therapy research, computational biology frameworks, and decentralized systems.
 *<h2> 🚀 Featured Engineering & Systems Projects</h2>
-*   COVID-19 Virtual Classroom Hub (2020-2021):
+*   <b>🔘 COVID-19 Virtual Classroom Hub (2020-2021):</b>
 - Engineered a centralized web application to manage fragmented virtual classroom links during the pandemic shift. Scaled organically to handle a daily active readership of 90+ students with over 500+ total unique site visits.
-*   Smart Tree Monitoring System (IoT Prototype):
+*   <b>🔘 Smart Tree Monitoring System (IoT Prototype):</b>
 - Co-developed an early-stage IoT system designed to monitor arbor health and environmental metrics. Secured 3rd place overall as the youngest podium finishers (Class 10) in a senior-dominated nationwide competitive pool at the Gregorian National Science Olympiad (2022).
-*   Independent Game Development (2020-2022):
+*   <b>🔘 Independent Game Development (2020-2022):</b>
 - Overcame severe hardware constraints to engineer interactive digital experiences. Developed and published an asteroid-themed action-simulation game on *itch.io*, utilizing game loop optimization and memory management as a gateway into compiling complex states.
-*<h2> 🛠️ Technical Stack & Capabilities</h2>
-*  Core Competencies:  Systems Architecture, Algorithmic Logic, Discrete Mathematics, State-Machine Design, IoT Hardware Prototyping.
-*   Technical Writing: Authored deep-dive technical features on *Blockchain Integration and Decentralized Protocols* for institutional science and innovation magazines (2022 & 2026).
+*<h2> 🛠️ <b>Technical Stack & Capabilities</b></h2>
+*  <b>🔘 Core Competencies:</b>  Systems Architecture, Algorithmic Logic, Discrete Mathematics, State-Machine Design, IoT Hardware Prototyping.
+*   <b>🔘 Technical Writing:</b> Authored deep-dive technical features on *Blockchain Integration and Decentralized Protocols* for institutional science and innovation magazines (2022 & 2026).
 *<h2> 🌟Leadership, Civic Engagement & Discipline</h2>
 - I believe that robust engineering requires an equally robust foundation of discipline and empathy.
-*   Core Leadership:Founding Member & Top Leadership. Spearheading an early-stage Large Language Model (LLM) initiative tailored for the Bangladeshi ecosystem. Driving architectural execution, core systemic workflows, and cross-functional team scaling.
-*  Institutional Building: *Founding Member* of the Gregorian Innovation Club and *Vice President* of the Gregorian Ecology Club.
-*   Community Management: Campus Ambassador for a large-scale educational community network, managing logistics and PR for a 10,000+ member demographic (2021-2023)
-*  Strategic Discipline:Completed rigorous regimented tactical drills and camping expeditions with the *Bangladesh National Cadet Corps (BNCC)* and Bangladesh Scouts.
-- Quantitative Aptitude: Earned the Inter-Cantonment Math Olympiad Badge, validating advanced problem-solving and logical deduction skills under strict constraints.
+*   <b>🔘 Core Leadership:</b> Founding Member & Top Leadership. Spearheading an early-stage Large Language Model (LLM) initiative tailored for the Bangladeshi ecosystem. Driving architectural execution, core systemic workflows, and cross-functional team scaling.
+*  <b>🔘 Institutional Building:</b> *Founding Member* of the Gregorian Innovation Club and *Vice President* of the Gregorian Ecology Club.
+*   <b>🔘 Community Management:</b> Campus Ambassador for a large-scale educational community network, managing logistics and PR for a 10,000+ member demographic (2021-2023)
+*  </b>🔘 Strategic Discipline:</b> Completed rigorous regimented tactical drills and camping expeditions with the *Bangladesh National Cadet Corps (BNCC)* and Bangladesh Scouts.
+- <b>🔘 Quantitative Aptitude:</b> Earned the Inter-Cantonment Math Olympiad Badge, validating advanced problem-solving and logical deduction skills under strict constraints.
 
 
 ## 📊 GitHub Stats & Trophies
