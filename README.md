@@ -149,6 +149,14 @@ Designed and published interactive games that introduced me to optimization, eve
 🔘 Participated in leadership training, camping, and tactical field exercises through the Bangladesh National Cadet Corps (BNCC) and Bangladesh Scouts.
 
 ---
+## 📌 Featured Repositories
+
+- 🧬 CytoLogic — Interactive compiler for genetic state-machines
+- 🧫 CytoOS — Digital twin framework for computational biology
+- 📄 Phage Therapy Research — Mathematical modeling and analysis
+- 🌳 Smart Tree Monitoring System — IoT environmental monitoring
+
+---
 
 # 📖 Philosophy
 
