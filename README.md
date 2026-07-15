@@ -17,7 +17,7 @@
 
 *   🔭 Currently Architecting: **CytoOS** (a medical operating system leveraging digital twin technology) and **CytoLogic** (an interactive visual compiler for genetic state-machines).
   
-🚀 **Leadership:** Co-founder at **Craftly**, driving LLM architectures and generative AI solutions.
+🚀 **Leadership:** Founding member and Senior Operational officer at **Craftly**,(Lead Entire Operational Department) driving LLM architectures and generative AI solutions.
 *   🌱 **Core Focus:** Building high-impact, lightweight computational tools (like generative data synthesis and edge-AI anomaly detection) to make synthetic biology and medical research more accessible.
 *   💻 **Background:** My journey started in game development (Unity/C#) and community building, which fundamentally shaped my approach to creating highly interactive, visual, and user-centric systems today.
 *   ⚡ **Quote I live by:** *"Bio-Logic Architect — Bridging Biology and Code."*
