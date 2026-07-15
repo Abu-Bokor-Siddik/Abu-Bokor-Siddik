@@ -45,6 +45,7 @@ My engineering journey is defined by a continuous drive to understand complex sy
 ### 2026: Execution, Architecture, and Open Source (Current)
 * **Applied Research:** Currently authoring a research paper focused on quantifying the fitness costs of phage therapy, bridging computational data analysis with microbiological treatment strategies.
 * **Building CytoLogic:** Actively developing the first tangible, open-source module of CytoOS: **CytoLogic**. It is an interactive, web-based visual compiler that allows researchers to drag-and-drop biological logic gates (AND/OR promoters) to rapidly prototype and simulate genetic state-machines.
+* **Strategic AI Leadership:** Served as a Founding Member and Strategic Lead at "Craftly Robot," where I spearheaded an early-stage LLM initiative tailored to the Bangladeshi ecosystem. I drove the architectural execution, core systemic workflows, and cross-functional team scaling to deliver impactful AI-driven solutions.
 
 ## 🧠 My Focus Areas
 - <h2>🔬 What I'm Currently Building</h2>
