@@ -15,11 +15,36 @@
 ## 📌 About Me
 👋 Hi there! I'm a developer and researcher deeply passionate about the intersection of <b>Computer Science, Artificial Intelligence, and Systems Biology</b>. I specialize in translating complex biological mechanisms into scalable software logic—essentially, architecting systems that breathe.
 
-*   🔭 Currently Architecting: **CytoOS** (a medical operating system leveraging digital twin technology) and **CytoLogic** (an interactive visual compiler for genetic state-machines). 
-*   🚀 **Leadership:** Co-founder at **Craftly**, driving LLM architectures and generative AI solutions.
+*   🔭 Currently Architecting: **CytoOS** (a medical operating system leveraging digital twin technology) and **CytoLogic** (an interactive visual compiler for genetic state-machines).
+  
+🚀 **Leadership:** Co-founder at **Craftly**, driving LLM architectures and generative AI solutions.
 *   🌱 **Core Focus:** Building high-impact, lightweight computational tools (like generative data synthesis and edge-AI anomaly detection) to make synthetic biology and medical research more accessible.
 *   💻 **Background:** My journey started in game development (Unity/C#) and community building, which fundamentally shaped my approach to creating highly interactive, visual, and user-centric systems today.
 *   ⚡ **Quote I live by:** *"Bio-Logic Architect — Bridging Biology and Code."*
+
+  ## 🚀 From Game Loops to Genetic Circuits: My Journey as a Bio-Logic Architect (2020–2026)
+
+My engineering journey is defined by a continuous drive to understand complex systems, starting from digital game loops and evolving into biological state-machines. Here is how my focus shifted from pure software development to the intersection of AI, systems biology, and biomedical engineering.
+
+### 2020–2021: Resourceful Foundations & Full-Stack Prototyping
+* **Building in Constrained Environments:** My journey began with Python and web development. Learning to code on a baseline core i3 processor utilizing tethered mobile internet taught me early on how to write highly optimized, lightweight logic.
+* **Rapid Iteration:** Transitioned from basic scripts to creating three distinct interactive demo games. Concurrently, I taught myself full-stack web development and successfully deployed a web platform that remained active and sustained users throughout 2021 and 2022.
+
+### 2022: Shipping Products & A Pivotal Biological Shift
+* **From Concept to Production:** Following hardware upgrades that expanded my computing capabilities, I designed, built, and shipped a full product-level game on itch.io, managing everything from core mechanics to UI/UX deployment.
+* **The Catalyst Project:** Developed a "Smart Tree Monitoring" system integrating IoT and logic, which secured **3rd Prize at a National Science Fair**. This was a defining paradigm shift for me. Realizing that code could monitor and interact with living organisms sparked my permanent pivot from traditional CSE toward biotechnology and biomedical engineering.
+
+### 2023–2024: Bridging Mathematics and Bio-Technology
+* **Analytical Rigor:** Deepened my foundation in mathematical modeling and logic systems. This analytical approach helped lead our college team to secure **4th Place at the National Inter-Cantonment Math Olympiad**.
+* **Biomedical Exploration:** Dedicated my independent study to bio-related technologies. I began actively researching antimicrobial resistance and antibiotic mechanisms, looking for avenues where computational architecture could solve biological bottlenecks.
+
+### 2025: Theoretical Frameworks & Conceptualizing CytoOS
+* **Academic & Research Synthesis:** While navigating a highly rigorous academic year heavily focused on national board examinations (HSC), I channeled my focused research time into intensive literature review and theoretical modeling.
+* **The Birth of a Vision:** Initiated specialized research into phage therapy. Recognizing the lack of scalable computational tools in genetic engineering, I designed the comprehensive system architecture for **CytoOS**—a conceptual digital twin operating system for medical and cellular logic.
+
+### 2026: Execution, Architecture, and Open Source (Current)
+* **Applied Research:** Currently authoring a research paper focused on quantifying the fitness costs of phage therapy, bridging computational data analysis with microbiological treatment strategies.
+* **Building CytoLogic:** Actively developing the first tangible, open-source module of CytoOS: **CytoLogic**. It is an interactive, web-based visual compiler that allows researchers to drag-and-drop biological logic gates (AND/OR promoters) to rapidly prototype and simulate genetic state-machines.
 
 ## 🧠 My Focus Areas
 - <h2>🔬 What I'm Currently Building</h2>
