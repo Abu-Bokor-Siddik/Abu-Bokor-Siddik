@@ -31,7 +31,7 @@ My engineering journey is defined by a continuous drive to understand complex sy
 * **Rapid Iteration:** Transitioned from basic scripts to creating three distinct interactive demo games. Concurrently, I taught myself full-stack web development and successfully deployed a web platform that remained active and sustained users throughout 2021 and 2022.
 
 ### 2022: Shipping Products & A Pivotal Biological Shift
-* **From Concept to Production:** Following hardware upgrades that expanded my computing capabilities, I designed, built, and shipped a full product-level game on itch.io, managing everything from core mechanics to UI/UX deployment.
+* **From Concept to Production:**I created three demo projects before designing, building, and shipping a complete game on itch.io, managing everything from core mechanics to UI/UX deployment.
 * **The Catalyst Project:** Developed a "Smart Tree Monitoring" system integrating IoT and logic, which secured **3rd Prize at a National Science Fair**. This was a defining paradigm shift for me. Realizing that code could monitor and interact with living organisms sparked my permanent pivot from traditional CSE toward biotechnology and biomedical engineering.
 
 ### 2023–2024: Bridging Mathematics and Bio-Technology
@@ -40,7 +40,7 @@ My engineering journey is defined by a continuous drive to understand complex sy
 
 ### 2025: Theoretical Frameworks & Conceptualizing CytoOS
 * **Academic & Research Synthesis:** While navigating a highly rigorous academic year heavily focused on national board examinations (HSC), I channeled my focused research time into intensive literature review and theoretical modeling.
-* **The Birth of a Vision:** Initiated specialized research into phage therapy. Recognizing the lack of scalable computational tools in genetic engineering, I designed the comprehensive system architecture for **CytoOS**—a conceptual digital twin operating system for medical and cellular logic.
+* **The Birth of a Vision:** Initiated specialized research into phage therapy. Recognizing the lack of scalable computational tools in genetic engineering, I designed the comprehensive system architecture for **CytoOS**, a conceptual digital twin operating system for medical and cellular logic.
 
 ### 2026: Execution, Architecture, and Open Source (Current)
 * **Applied Research:** Currently authoring a research paper focused on quantifying the fitness costs of phage therapy, bridging computational data analysis with microbiological treatment strategies.
