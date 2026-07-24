@@ -151,10 +151,10 @@ Designed and published interactive games that introduced me to optimization, eve
 ---
 ## 📌 Featured Repositories
 
-- 🧬 CytoLogic — Interactive compiler for genetic state-machines
-- 🧫 CytoOS — Digital twin framework for computational biology
-- 📄 Phage Therapy Research — Mathematical modeling and analysis
-- 🌳 Smart Tree Monitoring System — IoT environmental monitoring
+- CytoLogic — Interactive compiler for genetic state-machines
+- CytoOS — Digital twin framework for computational biology
+- Phage Therapy Research — Mathematical modeling and analysis
+- Smart Tree Monitoring System — IoT environmental monitoring
 
 ---
 
