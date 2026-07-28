@@ -89,6 +89,72 @@ Every project is supported by design documents, research notes, and engineering 
 | 📄 **Phage Therapy Research** | Coming Soon | Coming Soon | Coming Soon | Coming Soon |
 
 ---
+## Research Repository
+
+### 📄 A Parameterized Computational Analysis of Critical Fitness Cost Thresholds Governing Competitive Exclusion of Phage-Resistant *Escherichia coli* in Predator-Prey Ecosystems
+
+**Research Domain**
+
+- Computational Biology
+- Mathematical Microbiology
+- Phage Therapy
+
+**Research Question**
+
+Can the fitness cost of phage resistance be quantified to identify the critical threshold at which resistant *Escherichia coli* populations are competitively excluded during host-phage interactions?
+
+**Research Motivation**
+
+Antimicrobial resistance continues to reduce the effectiveness of conventional antibiotics. This research investigates whether the evolutionary trade-off associated with phage resistance can be translated into a quantitative predictor for improving future phage therapy strategies.
+
+**Methodology**
+
+- Fully *in silico* deterministic computational modeling
+- Ordinary Differential Equation (ODE) framework
+- Parameterized host-phage population dynamics
+- Fitness cost threshold analysis
+- Parameter sweep simulations
+- Equilibrium and competitive exclusion analysis
+- Bootstrap confidence interval estimation
+- Global sensitivity analysis
+- Scientific computing using Python and SciPy
+
+**Repository Status**
+
+🟡 In Development
+
+**Repository**
+
+🔗 Coming Soon
+
+---
+# 🌟 Selected Projects
+
+### 🔘 CytoLogic
+
+Visual compiler for genetic circuits combining compiler design, state-machine architecture, and systems biology.
+
+### 🔘 CytoOS
+
+Digital twin framework for modeling biological systems through computational abstractions.
+
+### 🔘 Smart Tree Monitoring System
+
+IoT-based environmental monitoring prototype awarded **3rd Place** at the Gregorian National Science Olympiad.
+
+### 🔘 **COVID-19 Virtual Classroom Hub**
+
+Built a centralized online learning platform during the COVID-19 pandemic, supporting approximately 90 daily active students and serving as a shared digital classroom with **590+ total site visits**.
+
+🔗 **Website:** https://sites.google.com/view/class-10d/home
+
+### 🔘 Independent Game Development
+
+Designed and published interactive games that introduced me to optimization, event-driven systems, and state-machine programming, concepts that continue to influence my current research.
+
+🔗 **Space Hero (itch.io):** https://gamesstar.itch.io/space-hero
+
+---
 
 # 🚀 Engineering Journey
 
@@ -137,30 +203,6 @@ Every project is supported by design documents, research notes, and engineering 
 🔘 Writing a research paper investigating computational approaches to quantifying fitness costs in phage therapy.
 
 🔘 Continuing to explore AI, synthetic biology, mathematical modeling, and software architecture through open-source development.
-
----
-
-# 🌟 Selected Projects
-
-### 🔘 CytoLogic
-
-Visual compiler for genetic circuits combining compiler design, state-machine architecture, and systems biology.
-
-### 🔘 CytoOS
-
-Digital twin framework for modeling biological systems through computational abstractions.
-
-### 🔘 Smart Tree Monitoring System
-
-IoT-based environmental monitoring prototype awarded **3rd Place** at the Gregorian National Science Olympiad.
-
-### 🔘 COVID-19 Virtual Classroom Hub
-
-Centralized online platform developed during the pandemic that served over **500+ users** and supported approximately **90 daily active students**.
-
-### 🔘 Independent Game Development
-
-Designed and published interactive games that introduced me to optimization, event-driven systems, and state-machine programming—concepts that continue to influence my current research.
 
 ---
 
