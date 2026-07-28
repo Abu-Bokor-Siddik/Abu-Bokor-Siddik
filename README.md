@@ -78,6 +78,17 @@ Developing the first open-source module of CytoOS—a visual compiler for geneti
 Currently conducting independent research on **phage therapy**, mathematical modeling, and synthetic biology while exploring computational methods that improve biological system design and analysis.
 
 ---
+## Engineering Evidence
+
+Every project is supported by design documents, research notes, and engineering records that capture the complete development process, from the initial idea to implementation.
+
+| Project | Architecture | Engineering Notebook | Devlogs | Literature Review |
+|:--------|:------------:|:--------------------:|:--------:|:-----------------:|
+| 🧬 **CytoLogic** | Coming Soon | Coming Soon | Coming Soon | Coming Soon |
+| 🩺 **CytoOS** | Coming Soon | Coming Soon | Coming Soon | Coming Soon |
+| 📄 **Phage Therapy Research** | Coming Soon | Coming Soon | Coming Soon | Coming Soon |
+
+---
 
 # 🚀 Engineering Journey
 
