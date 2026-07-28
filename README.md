@@ -44,6 +44,15 @@ Today, I focus on building computational tools that help represent biological sy
 That perspective continues to shape every project I build.
 
 ---
+## Research Direction
+
+> I explore how computational models can help explain and predict the behavior of biological systems.
+>
+> My current work focuses on mathematical models of host-phage interactions and antimicrobial resistance, with the goal of identifying quantitative principles that can support future phage therapy.
+>
+> Over time, I aim to build open computational frameworks that connect biology, mathematics, and software engineering to make biological systems more understandable and reproducible.
+
+---
 
 # 🔬 What I'm Building
 
