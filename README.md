@@ -53,6 +53,15 @@ That perspective continues to shape every project I build.
 > Over time, I aim to build open computational frameworks that connect biology, mathematics, and software engineering to make biological systems more understandable and reproducible.
 
 ---
+## Why Bio-Computational Systems?
+
+Biological systems are complex, dynamic, and governed by interactions that can often be described through mathematics and computation. I am interested in understanding these systems by building computational models that make their behavior measurable, testable, and reproducible.
+
+My work combines biology, mathematical modeling, and software engineering to transform biological questions into computational problems. Whether designing a compiler for synthetic biology or modeling the dynamics of phage resistance, I approach biology as a system that can be analyzed, simulated, and better understood through computation.
+
+This perspective shapes every project I build and every research question I pursue.
+
+---
 
 # 🔬 What I'm Building
 
@@ -200,9 +209,7 @@ Whether developing games, compiler architectures, AI systems, or computational b
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abu-Bokor-Siddik&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Abu-Bokor-Siddik's GitHub Streak" width="49%" />
-</p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Abu-Bokor-Siddik&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abu Bokor Siddik's GitHub Trophies" />
 </p>
