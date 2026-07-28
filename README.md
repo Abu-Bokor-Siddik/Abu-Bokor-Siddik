@@ -14,11 +14,34 @@
 
 # Hi, I'm Abu Bokor Siddik 👋
 
-**Bio-Logic Architect — Bridging Biology and Code.**
+**Bio-Logic Architect | Exploring Biology Through Software**
 
-I'm a developer and independent researcher passionate about building computational systems inspired by biology. My work sits at the intersection of **Computer Science, Artificial Intelligence, Systems Biology, and Biomedical Engineering**, where I explore how biological processes can be translated into programmable architectures.
+One question has shaped most of my work:  
 
-Rather than treating biology purely as a scientific discipline, I approach it as a collection of interacting computational systems. My goal is to build software that helps researchers design, simulate, and reason about biological logic more effectively.
+**What if we understood biological systems the way we understand software?**
+
+That question led me to design **CytoOS**, a long-term framework for computational medicine, and **CytoLogic**, an open-source compiler for genetic state machines.
+
+This GitHub is where I document that journey through engineering notebooks, architecture designs, research notes, and open-source projects.
+
+---
+
+### How I Think
+I enjoy understanding complex systems by breaking them into smaller, connected pieces. Whether I'm studying software or biology, I naturally look for the underlying architecture, how information flows, how components interact, and how the entire system behaves as a whole.
+
+---
+
+### Why Biology and Software?
+I started by building small games and web applications. Those early projects taught me how systems are designed, how components interact, and how complex behavior can emerge from simple rules. As I explored biology, I noticed many of the same principles appearing in living systems. Genetic circuits process information, signaling pathways coordinate interactions, and cells make decisions through networks of molecular events.
+
+Those similarities changed the kinds of questions I wanted to explore.
+
+---
+
+### What Drives My Work
+Today, I focus on building computational tools that help represent biological systems as software models. Rather than treating computer science and biology as separate disciplines, I'm interested in the ideas they share and the possibilities that emerge when they are combined.
+
+That perspective continues to shape every project I build.
 
 ---
 
