@@ -231,9 +231,6 @@ Designed and published interactive games that introduced me to optimization, eve
 ---
 
 # 🌍 Leadership & Community
-
-🔘 Founding Member and Senior Operational Officer at Craftly, overseeing organization-wide operations, team coordination, and execution of AI and LLM initiatives. Alongside leading the operational department, I moderate Craftly's 4,000+ member developer community, helping cultivate collaboration, knowledge sharing, and contributor engagement.
-
 🔘 Founding Member of the Gregorian Innovation Club.
 
 🔘 Vice President of the Gregorian Ecology Club.
